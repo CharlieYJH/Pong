@@ -3,4 +3,4 @@
 Pong game made in Python
 
 #### Screenshot
-![Screenshot](screenshots.png)
+![Screenshot](screenshot.png)
